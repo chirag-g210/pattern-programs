@@ -18,3 +18,12 @@ public class Square{
     }
 }
 
+/*
+sample output for n = 5 
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
+
+*/
