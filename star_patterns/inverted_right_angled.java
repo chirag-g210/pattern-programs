@@ -1,4 +1,5 @@
 import java.util.*;
+
 class inverted_right_angled {
     public static void pattern(int n){
         for(int i = 0; i <= n ; i++){
@@ -23,5 +24,6 @@ class inverted_right_angled {
         * * * 
         * *
         *
+
 
 */
