@@ -16,10 +16,12 @@ public class right_angled {
     }
 }
 
-/* output for n = 5
-*
-* *
-* * *
-* * * *
-* * * * *
+/*
+    output for n = 5
+        *
+        * *
+        * * *
+        * * * *
+        * * * * *
  */
+
