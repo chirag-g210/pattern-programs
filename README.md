@@ -5,8 +5,10 @@ It is designed to help beginners improve **logic building, loops, and problem-so
 
 ---
 
+<pre>
 ## 📁 Project Structure
 ├──number_patterns
     ├── simple.java
 ├── star_patterns/
     ├── Square.java
+</pre>
