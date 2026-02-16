@@ -20,9 +20,9 @@ public class number {
 /*
       sample output for n = 5
           1
-          12
-          123
-          1234
-          12345
+          1 2
+          1 2 3
+          1 2 3 4
+          1 2 3 4 5
           
           */
