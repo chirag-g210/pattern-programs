@@ -11,6 +11,7 @@ It is designed to help beginners improve **logic building, loops, and problem-so
 ├──number_patterns
     ├── simple.java
     ├── reverse_num.java
+    ├── Floyd’s Triangle
 ├── star_patterns/
     ├── Square.java
     ├── Right_angled_triangle.java
