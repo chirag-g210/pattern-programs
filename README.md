@@ -17,3 +17,12 @@ It is designed to help beginners improve **logic building, loops, and problem-so
     ├── Right_angled_triangle.java
     ├── inverted_right_angled.java
 </pre>
+
+---
+
+## 👤 Author
+**Chirag Gupta**
+
+---
+
+⭐ If you like this project, give it a star on GitHub!
