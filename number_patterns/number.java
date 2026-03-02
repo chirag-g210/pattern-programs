@@ -13,6 +13,7 @@ public class number {
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
         pattern(n);        
+        sc.close();
     }
 }
 
