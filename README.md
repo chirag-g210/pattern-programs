@@ -7,7 +7,7 @@ It is designed to help beginners improve **logic building, loops, and problem-so
 
 
 ## 📁 Project Structure
-<pre>
+```
 ├──number_patterns
     ├── simple.java
     ├── reverse_num.java
@@ -16,7 +16,7 @@ It is designed to help beginners improve **logic building, loops, and problem-so
     ├── Square.java
     ├── Right_angled_triangle.java
     ├── inverted_right_angled.java
-</pre>
+```
 
 ---
 
